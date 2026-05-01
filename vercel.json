@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "Bright Memory",
+  "name": "سلام سامان",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
